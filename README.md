@@ -13,4 +13,4 @@ git clone "https://github.com/sudarsankumar/slide-in-observer.git"
 ```
 
 ## demo link
-[Glassmorphism effect](https://sudarsankumar.github.io/slide-in-observer/)
+[Slide in Observer](https://sudarsankumar.github.io/slide-in-observer/)
