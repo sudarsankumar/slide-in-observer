@@ -1,5 +1,5 @@
 # slide-in-observer
-This is a simple project done using html and css which gives you a glassmorphism effect with responsive layout
+This is a simple project done using html and css which gives you a slide-in-observer effect with responsive layout
 ## Table Of Contents
 - [Installation](#installation)
 - [Sample Link](#sample-link)
